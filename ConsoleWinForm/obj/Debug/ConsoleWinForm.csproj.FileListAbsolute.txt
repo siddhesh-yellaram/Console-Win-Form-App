@@ -1,0 +1,9 @@
+D:\test\.NET\ConsoleWinForm\bin\Debug\ConsoleWinForm.exe.config
+D:\test\.NET\ConsoleWinForm\bin\Debug\ConsoleWinForm.exe
+D:\test\.NET\ConsoleWinForm\bin\Debug\ConsoleWinForm.pdb
+D:\test\.NET\ConsoleWinForm\obj\Debug\ConsoleWinForm.csproj.AssemblyReference.cache
+D:\test\.NET\ConsoleWinForm\obj\Debug\ConsoleWinForm.csproj.CoreCompileInputs.cache
+D:\test\.NET\ConsoleWinForm\obj\Debug\ConsoleWinForm.exe
+D:\test\.NET\ConsoleWinForm\obj\Debug\ConsoleWinForm.pdb
+D:\test\.NET\ConsoleWinForm\obj\Debug\ConsoleWinForm.WelcomeForm.resources
+D:\test\.NET\ConsoleWinForm\obj\Debug\ConsoleWinForm.csproj.GenerateResource.cache
